@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ArunrajMK.github.io/static/css/main.932dbba5.css",
+    "main.js": "/ArunrajMK.github.io/static/js/main.37168459.js",
+    "static/media/hero.jpg": "/ArunrajMK.github.io/static/media/hero.98cd2373855999784437.jpg",
+    "index.html": "/ArunrajMK.github.io/index.html",
+    "main.932dbba5.css.map": "/ArunrajMK.github.io/static/css/main.932dbba5.css.map",
+    "main.37168459.js.map": "/ArunrajMK.github.io/static/js/main.37168459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.932dbba5.css",
+    "static/js/main.37168459.js"
+  ]
+}
